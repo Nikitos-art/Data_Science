@@ -3,7 +3,7 @@
 import requests
 import json
 
-url = "https://api.vk.com/method/groups.get?v=5.131&access_token=c9d7a8c47d18152c4c890732a057f824249e33cda3c3f5f7e37ced1b11145e0d8314a13bb4e96fa6feb0c"
+url = ""
 
 
 def api_reply(uri):
